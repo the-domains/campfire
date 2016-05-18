@@ -6,9 +6,9 @@ color:
   saturation: 0.9214698458090425
   rhythmicContrast: 0.0058077562134712934
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 name: campfire
