@@ -1,0 +1,14 @@
+layout_spectrum: 0.5605547341983765
+typography_spectrum: 0.7767536439932883
+color:
+  brandStrength: 0.9324986401479691
+  lightness: 0.10065634665079415
+  saturation: 0.9214698458090425
+  rhythmicContrast: 0.0058077562134712934
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: campfire
