@@ -1,14 +1,14 @@
-layout_spectrum: 0.5605547341983765
-typography_spectrum: 0.7767536439932883
+layout_spectrum: 0.03756787348538637
+typography_spectrum: 0.4705293399747461
 color:
-  brandStrength: 0.9324986401479691
-  lightness: 0.10065634665079415
-  saturation: 0.9214698458090425
-  rhythmicContrast: 0.0058077562134712934
+  brandStrength: 0.4862915228586644
+  lightness: 0.8001962658017874
+  saturation: 0.49019468831829727
+  rhythmicContrast: 0.320579010527581
   brandColors:
-    - '#6B0C22'
-    - '#D9042B'
-    - '#F4CB89'
-    - '#588C8C'
-    - '#011C26'
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
 name: Piastro
